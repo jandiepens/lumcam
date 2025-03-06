@@ -1,0 +1,17 @@
+[project]
+name = "lumcam"
+version = "0.1.0"
+description = "Lumcam is a python package for creating luminance maps, HDR images, with a Raspberry pi"
+readme = "README.md"
+authors = [ 
+    {name = "Jan Diepens", email = "jan.diepens@outlook.com"}
+]
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.2",
+    "opencv-python>=4.11.0.86",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
