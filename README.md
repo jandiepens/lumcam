@@ -6,5 +6,5 @@ Camera manufacturers and photographers have long strived to capture the same lev
 
 High dynamic range (HDR) imaging refers to the capture, storage, and display of images that more accurately represent the wide range of real-world lighting levels. With the advent of low-cost HDR cameras and years of experience, HDR is finally ready to enter the field of lighting studies for a large group of researchers and students. HDR imagery enables the creation of luminance maps of scenes, which can be used for glare analysis or for validating computed luminance maps with the Radiance software package.
 
-##Lumcam
+## Lumcam
 Is a package written in Python to capture, analyse and display High Dynamic Range (HDR) images. The capture part of the package is specific written for the Raspberry Pi 5 and HQ camera device with fisheye lens. The analyse and display code can be used an other hardware and operating systems.
